@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Pramodh Pillitla</h1>
+<p align="center">
+  <b>Full-Stack Developer · DSA Enthusiast · CS Undergrad @ RGUKT Basar (Class of 2027)</b><br/>
+  <sub>Building real-time apps with Node.js + Socket.IO · Open to internships</sub>
+</p>
 
-<!--
-**pramodhpillitla/pramodhpillitla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🚗 [ViaPool](https://github.com/pramodhpillitla/ViaPool) — Real-Time Ride Sharing Platform
+Full-stack PWA with driver/passenger workflows, live ride tracking, in-app chat, and map-based routing — all with sub-second Socket.IO updates.  
+`React` `Node.js` `Socket.IO` `MongoDB` `Leaflet` `PWA`
+
+### 🎥 [MediaStack](https://github.com/pramodhpillitla/MediaStack) — Scalable Video Backend
+Production-grade REST API for a YouTube-like platform — videos, comments, likes, follows, JWT auth, and optimized MongoDB indexing.  
+`Node.js` `Express` `MongoDB` `JWT`
+
+### ✋ [Gesture Canvas](https://github.com/pramodhpillitla/Gesture-Canvas-AR-drawing-to-recognition-image-generation) — AR Drawing + AI Image Gen
+Hand gesture → air drawing → AI image generation pipeline using OpenCV, Gemini, and Hugging Face with async real-time inference.  
+`Python` `OpenCV` `Gemini API` `Hugging Face`
+
+---
+
+## 📊 At a Glance
+
+| 400+ problems solved on LeetCode & CodeChef | 8.43 GPA (B.Tech CS) | 2★ CodeChef |
+|---|---|---|
+
+---
+
+## 🏅 Certifications & Wins
+
+- 🏅 Artificial Intelligence Fundamentals — IBM SkillsBuild (2025)  
+- 🏅 SQL and Relational Databases 101 — IBM Cognitive Class (2025)  
+- ⚡ 🥉 3rd place @ RGUKT Basar 12-hour Hackathon — built Ajutor (services marketplace)  
+- ⚡ State Rank 701 in TSPOLYCET 2021
+
+---
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pramodh-pillitla-5595b232a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:pramodhpillitla@gmail.com)

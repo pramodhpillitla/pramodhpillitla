@@ -45,7 +45,7 @@ Hand gesture → air drawing → AI image generation pipeline using OpenCV, Gemi
 | ⚡ Real-time systems | 🤖 LLM integration |
 |---|---|
 | WebSockets, Socket.IO, event-driven architecture | Gemini API, Hugging Face, prompt engineering |
-| **🏗️ System design** | **🧩 Problem solving** |
+| 🏗️ System design | 🧩 Problem solving |
 | Scalable APIs, RBAC, auth flows, DB indexing | 400+ DSA problems · graphs, DP, trees |
 
 ---

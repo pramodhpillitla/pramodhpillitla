@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Pramodh Pillitla</h1>
 <p align="center">
   <b>Full-Stack Developer · DSA Enthusiast · CS Undergrad @ RGUKT Basar (Class of 2027)</b><br/>
-  <sub>Building real-time apps with Node.js + Socket.IO · Open to internships</sub>
+  <sub>Building real-time systems with Node.js + Socket.IO · Open to internships</sub>
 </p>
 
 ---
@@ -22,33 +22,39 @@
 
 ## 🚀 Featured Projects
 
-### 🚗 [ViaPool](https://github.com/pramodhpillitla/ViaPool) — Real-Time Ride Sharing Platform
-Full-stack PWA with driver/passenger workflows, live ride tracking, in-app chat, and map-based routing — all with sub-second Socket.IO updates.  
+### 🚗 [ViaPool](https://github.com/pramodhpillitla/ViaPool) — Real-Time Ride Sharing &nbsp; [🔴 Live Demo](https://via-pool.vercel.app/)
+Full-stack PWA for carpooling across India. Driver/passenger workflows, live ride tracking, in-app chat, and map-based routing with sub-second Socket.IO updates.  
 `React` `Node.js` `Socket.IO` `MongoDB` `Leaflet` `PWA`
+
+### 💼 [Enterprise BDA CRM](https://github.com/pramodhpillitla) &nbsp; [🔴 Live Demo](https://business-development-associate-bda-jet.vercel.app/)
+Business development associate CRM dashboard for managing leads, clients, and sales pipelines — built for enterprise workflows.  
+`React` `Dashboard` `CRM` `Enterprise`
 
 ### 🎥 [MediaStack](https://github.com/pramodhpillitla/MediaStack) — Scalable Video Backend
 Production-grade REST API for a YouTube-like platform — videos, comments, likes, follows, JWT auth, and optimized MongoDB indexing.  
 `Node.js` `Express` `MongoDB` `JWT`
 
 ### ✋ [Gesture Canvas](https://github.com/pramodhpillitla/Gesture-Canvas-AR-drawing-to-recognition-image-generation) — AR Drawing + AI Image Gen
-Hand gesture → air drawing → AI image generation pipeline using OpenCV, Gemini, and Hugging Face with async real-time inference.  
+Hand gesture → air drawing → AI image generation pipeline using OpenCV, Gemini API, and Hugging Face with async real-time inference.  
 `Python` `OpenCV` `Gemini API` `Hugging Face`
 
 ---
 
-## 📊 At a Glance
+## 🧠 What I'm Working With Right Now
 
-| 400+ problems solved on LeetCode & CodeChef | 8.43 GPA (B.Tech CS) | 2★ CodeChef |
-|---|---|---|
+| ⚡ Real-time systems | 🤖 LLM integration |
+|---|---|
+| WebSockets, Socket.IO, event-driven architecture | Gemini API, Hugging Face, prompt engineering |
+| **🏗️ System design** | **🧩 Problem solving** |
+| Scalable APIs, RBAC, auth flows, DB indexing | 400+ DSA problems · graphs, DP, trees |
 
 ---
 
-## 🏅 Certifications & Wins
+## ⚡ A Few Things About Me
 
-- 🏅 Artificial Intelligence Fundamentals — IBM SkillsBuild (2025)  
-- 🏅 SQL and Relational Databases 101 — IBM Cognitive Class (2025)  
-- ⚡ 🥉 3rd place @ RGUKT Basar 12-hour Hackathon — built Ajutor (services marketplace)  
-- ⚡ State Rank 701 in TSPOLYCET 2021
+- 🏎️ Shipped a full-stack PWA as a solo project — frontend, backend, real-time, maps, all of it
+- 🤝 Believe clean APIs are a form of communication, not just code
+- 📚 Currently deepening knowledge in OS, Networks, and DBMS
 
 ---
 
